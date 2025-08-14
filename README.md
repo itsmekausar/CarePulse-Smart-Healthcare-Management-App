@@ -28,19 +28,19 @@ A healthcare patient management application that allows patients to easily regis
 
 ---
 
-## ️ Screenshots
+## 🖼️ Screenshots
 
 ### Login Page
-<img width="445" alt="Login Page" src="./images/login.png" />
+<img width="445" height="828" alt="Login Page" src="https://github.com/user-attachments/assets/YOUR-LOGIN-IMAGE-ID" />
 
 ### Registration Page
-<img width="445" alt="Registration Page" src="./images/registration.png" />
+<img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
 
 ### Appointment Page
-<img width="1470" alt="Appointment Page" src="./images/appointment.png" />
+<img width="1470" height="956" alt="Appointment Page" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
 
 ### Admin Dashboard
-<img width="1470" alt="Admin Dashboard" src="./images/dashboard.png" />
+<img width="1470" height="956" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/8d3947f4-2988-40f3-8fd6-a989db8b9557" />
 
 ### Success Page
-<img width="1470" alt="Success Page" src="./images/success.png" />
+<img width="1470" height="956" alt="Success Page" src="https://github.com/user-attachments/assets/28a3b90a-1662-45bc-8008-d364bdecf016" />
