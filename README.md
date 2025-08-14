@@ -28,21 +28,19 @@ A healthcare patient management application that allows patients to easily regis
 
 ---
 
-## 🖼️ Screenshots
+## ️ Screenshots
 
 ### Login Page
-<img width="1470" height="956" alt="Screenshot 2025-08-14 at 1 16 45 PM" src="https://github.com/user-attachments/assets/3e2ed905-c100-498a-b89d-8115de8c1547" />
-
+<img width="445" alt="Login Page" src="./images/login.png" />
 
 ### Registration Page
-<img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
+<img width="445" alt="Registration Page" src="./images/registration.png" />
 
 ### Appointment Page
-<img width="1470" height="956" alt="Appointment Page" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
+<img width="1470" alt="Appointment Page" src="./images/appointment.png" />
 
 ### Admin Dashboard
-<img width="1470" height="956" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/8d3947f4-2988-40f3-8fd6-a989db8b9557" />
+<img width="1470" alt="Admin Dashboard" src="./images/dashboard.png" />
 
 ### Success Page
-<img width="1470" height="956" alt="Success Page" src="https://github.com/user-attachments/assets/28a3b90a-1662-45bc-8008-d364bdecf016" />
-
+<img width="1470" alt="Success Page" src="./images/success.png" />
