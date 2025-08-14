@@ -31,11 +31,11 @@ A healthcare patient management application that allows patients to easily regis
 ## 🖼️ Screenshots
 
 ### Login Page
-<img width="445" height="828" alt="Screenshot 2025-08-14 at 1 16 45 PM" src="https://github.com/user-attachments/assets/3e2ed905-c100-498a-b89d-8115de8c1547" />
+<img width="1470" height="956" alt="Screenshot 2025-08-14 at 1 16 45 PM" src="https://github.com/user-attachments/assets/3e2ed905-c100-498a-b89d-8115de8c1547" />
 
 
 ### Registration Page
-<img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
+<img width="1470" height="956" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
 
 ### Appointment Page
 <img width="1470" height="956" alt="Appointment Page" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
