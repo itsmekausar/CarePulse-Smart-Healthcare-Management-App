@@ -35,7 +35,7 @@ A healthcare patient management application that allows patients to easily regis
 
 
 ### Registration Page
-<img width="1000" height="956" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
+<img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
 
 ### Appointment Page
 <img width="1470" height="956" alt="Appointment Page" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
