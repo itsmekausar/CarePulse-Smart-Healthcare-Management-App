@@ -31,7 +31,8 @@ A healthcare patient management application that allows patients to easily regis
 ## 🖼️ Screenshots
 
 ### Login Page
-<img width="445" height="828" alt="Login Page" src="https://github.com/user-attachments/assets/YOUR-LOGIN-IMAGE-ID" />
+<img width="1470" height="956" alt="login" src="https://github.com/user-attachments/assets/e8def39b-9b44-4351-9e6a-85eecad96183" />
+
 
 ### Registration Page
 <img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
