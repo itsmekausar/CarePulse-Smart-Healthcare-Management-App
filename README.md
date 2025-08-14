@@ -35,24 +35,17 @@ And much more — including **clean code architecture** and **reusability**.
 ## 🖼️ Screenshots
 
 ### Login Page
-![Login] ![Uploading Screenshot 2025-08-14 at 1.16.45 PM.png…]
-
+<img width="445" height="828" alt="Login Page" src="https://github.com/user-attachments/assets/YOUR-LOGIN-IMAGE-ID" />
 
 ### Registration Page
-![Registration]<img width="445" height="828" alt="Screenshot 2025-08-14 at 1 20 38 PM" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
-
+<img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
 
 ### Appointment Page
-![Appointment] <img width="1470" height="956" alt="Screenshot 2025-08-14 at 1 17 20 PM" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
-
+<img width="1470" height="956" alt="Appointment Page" src="https://github.com/user-attachments/assets/921a3306-5d0c-4427-8ade-b45641f56267" />
 
 ### Admin Dashboard
-![Admin Dashboard] <img width="1470" height="956" alt="Screenshot 2025-08-14 at 1 19 11 PM" src="https://github.com/user-attachments/assets/8d3947f4-2988-40f3-8fd6-a989db8b9557" />
-
+<img width="1470" height="956" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/8d3947f4-2988-40f3-8fd6-a989db8b9557" />
 
 ### Success Page
-![Success] <img width="1470" height="956" alt="Screenshot 2025-08-14 at 1 17 35 PM" src="https://github.com/user-attachments/assets/28a3b90a-1662-45bc-8008-d364bdecf016" />
+<img width="1470" height="956" alt="Success Page" src="https://github.com/user-attachments/assets/28a3b90a-1662-45bc-8008-d364bdecf016" />
 
----
-
-## 🚀 Getting Started
