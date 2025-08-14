@@ -1,9 +1,7 @@
 # 🏥 Healthcare Patient Management System
 
 ## 🤖 Introduction
-A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications — all built using **Next.js**.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+ members**. It's a place where people help each other out.
+A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications.
 
 ---
 
@@ -28,14 +26,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **File Upload Using Appwrite Storage** – Users can upload and store files securely within the app using Appwrite storage services.  
 👉 **Manage and Track Application Performance Using Sentry** – The application uses Sentry to monitor and track its performance and detect any errors.  
 
-And much more — including **clean code architecture** and **reusability**.
-
 ---
 
 ## 🖼️ Screenshots
 
 ### Login Page
-<img width="445" height="828" alt="Login Page" src="https://github.com/user-attachments/assets/YOUR-LOGIN-IMAGE-ID" />
+<img width="445" height="828" alt="Screenshot 2025-08-14 at 1 16 45 PM" src="https://github.com/user-attachments/assets/3e2ed905-c100-498a-b89d-8115de8c1547" />
+
 
 ### Registration Page
 <img width="445" height="828" alt="Registration Page" src="https://github.com/user-attachments/assets/c9d8c6e0-b4b4-4463-bcb1-264b8e8469bb" />
