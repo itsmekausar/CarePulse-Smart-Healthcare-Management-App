@@ -9,7 +9,7 @@ A healthcare patient management application that allows patients to easily regis
 - **Next.js**
 - **Appwrite**
 - **TypeScript**
-- **TailwindCSS**
+- **TailwindCSS**   
 - **ShadCN**
 - **Twilio**
 
